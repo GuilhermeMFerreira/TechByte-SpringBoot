@@ -144,14 +144,14 @@ Os testes foram feitos diretamente pelo navegador, acessando as rotas HTTP da AP
 **Requisição:**
 
 ```http
-GET http://localhost:8080/Produto
+http://localhost:8080/Produto
 ```
 
 **Resultado esperado:**
 
 Retorno de uma lista contendo os produtos cadastrados no banco de dados, representados no formato JSON.
 
-<img width="574" height="251" alt="image" src="https://github.com/user-attachments/assets/031a00bd-3485-4714-9c31-3ba5ddf5d458" />
+<img width="338" height="181" alt="image" src="https://github.com/user-attachments/assets/47e7258d-d2bb-4455-93ef-ba891e750071" />
 
 ## Autor
 
